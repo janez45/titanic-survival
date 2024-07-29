@@ -1,1 +1,1 @@
-## Up to 85.52% accuracy
+## Up to 86.52% accuracy
