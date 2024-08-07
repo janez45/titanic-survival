@@ -1,1 +1,1 @@
-## Up to 86.59% accuracy on train test split and 87.07% accuracy on KFold Cross Validation.
+## Up to 88.27% accuracy on train test split and 91.01% accuracy on KFold Cross Validation.
