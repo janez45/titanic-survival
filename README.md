@@ -1,4 +1,5 @@
 ## Kaggle's marquee titanic competition. Leverages real-world passenger data to predict survival of others.
+Datasets all from Kaggle.
 #### Process:
 - Data Analysis: Visualization using **matplotlib**, examining correlations and similar groupings
 - Cleaning and preprocessing the data **(Pandas)**:
